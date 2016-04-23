@@ -2,6 +2,11 @@
     "name": "assouan/package",
     "type": "metapackage",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "assouan/dump": "*",
+        "zendframework/zend-diactoros": "*",
+        "assouan/routing": "*",
+        "assouan/template": "*",
+        "assouan/orm": "*"
     }
 }
