@@ -1,0 +1,7 @@
+{
+    "name": "assouan/package",
+    "type": "metapackage",
+    "require": {
+        "php": "^7.0"
+    }
+}
