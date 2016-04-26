@@ -5,7 +5,7 @@
         "php": "^7.0",
         "assouan/dump": "*",
         "zendframework/zend-diactoros": "*",
-        "assouan/sketcher": "*",
+        "assouan/stretcher": "*",
         "assouan/routing": "*",
         "assouan/template": "*",
         "assouan/orm": "*"
